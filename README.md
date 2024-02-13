@@ -1,5 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
+<hr style="height:1px; border:none; color:#333; background-color:#333; margin-top:20px; margin-bottom:20px;">
+
 <h1 align="center">Hi there! 👋 I'm Rodzel John Te</h1>
 <h3 align="center">Passionate Frontend Developer | Based in the Philippines</h3>
 
@@ -7,6 +9,7 @@
   <img src="https://profile-counter.glitch.me/rodzelte/count.svg" alt="Visitor Count">
 </p>
 
+<hr style="height:1px; border:none; color:#333; background-color:#333; margin-top:20px; margin-bottom:20px;">
 
 - 🔭 I’m currently working on [2024portfolio](https://github.com/rodzelte/2024portfolio)
 
@@ -20,9 +23,9 @@
 
 - 📫 Reach me at **zythonix.te@gmail.com**
 
-- ⚡ Fun fact: **I am a boring person**
+- ⚡ Fun fact: **I'm secretly a fan of old school RPGs**
 
-<br><br>
+<hr style="height:1px; border:none; color:#333; background-color:#333; margin-top:20px; margin-bottom:20px;">
 
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
@@ -31,6 +34,7 @@
   <a href="https://fb.com/rodzel.te/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 </p>
 
+<hr style="height:1px; border:none; color:#333; background-color:#333; margin-top:20px; margin-bottom:20px;">
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -46,21 +50,22 @@
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/>
 </p>
 
+<hr style="height:1px; border:none; color:#333; background-color:#333; margin-top:20px; margin-bottom:20px;">
+
 <h3 align="center">Support:</h3>
 
-<div style="display: inline-flex; justify-content: center;">
+<p align="center">
   <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=rodzelte&theme=dark" alt="GitHub Streak Stats">
-</div>
+</p>
 
-<div style="display: inline-flex; justify-content: center;">
+<p align="center">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=rodzelte&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats">
-</div>
+</p>
 
-<div style="display: inline-flex; justify-content: center; margin-bottom:50; ">
+<p align="center">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodzelte&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages">
-</div>
+</p>
 
-<p><a href="https://www.buymeacoffee.com/zythonixtec"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zythonixtec" /></a></p>
-
-<br><br>
-
+<p align="center">
+  <a href="https://www.buymeacoffee.com/zythonixtec"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"></a>
+</p>
