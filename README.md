@@ -22,8 +22,8 @@
 
 - ⚡ Fun fact **I am a boring person**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/rodzel-te-188573285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodzel-te-188573285/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user22432763" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user22432763" height="30" width="40" /></a>
 <a href="https://fb.com/rodzel.te/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rodzel.te/" height="30" width="40" /></a>
