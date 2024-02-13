@@ -7,7 +7,7 @@
   <img src="https://profile-counter.glitch.me/rodzelte/count.svg" alt="Visitor Count">
 </p>
 
-<hr style="height:1px; border:none; color:#333; background-color:#333; margin-top:20px; margin-bottom:20px;">
+<hr style="height:1px; border:none; color:#333; background-color:#333;>
 
 - 🔭 I’m currently working on [2024portfolio](https://github.com/rodzelte/2024portfolio)
 
