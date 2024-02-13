@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodzelte&label=Profile%20views&color=13a300&style=flat" alt="rodzelte" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rodzelte&label=Profile%20views&color=13a300&style=flat" alt="rodzelte" /> </p>
 
 - 🔭 I’m currently working on [2024portfolio](https://github.com/rodzelte/2024portfolio)
 
