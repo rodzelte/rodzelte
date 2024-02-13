@@ -1,7 +1,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<hr style="height:1px; border:none; color:#808080; background-color:#808080; margin-top:20px; margin-bottom:20px;">
-
 <h1 align="center">Hi there! 👋 I'm Rodzel John Te</h1>
 <h3 align="center">Passionate Frontend Developer | Based in the Philippines</h3>
 
