@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rodzel John Te</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-
+![Visitor Count](https://profile-counter.glitch.me/{carlcastanas}/count.svg)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rodzelte&label=Profile%20views&color=13a300&style=flat" alt="rodzelte" /> </p>
 
 - 🔭 I’m currently working on [2024portfolio](https://github.com/rodzelte/2024portfolio)
