@@ -4,10 +4,10 @@
 <h1 align="center">Hi there! 👋 I'm Rodzel John Te</h1>
 <h3 align="center">Passionate Frontend Developer | Based in the Philippines</h3>
 
-<p align="center">
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <h3>Profile Visits</h3>
   <img src="https://profile-counter.glitch.me/rodzelte/count.svg" alt="Visitor Count">
-</p>
-
+</div>
 
 - 🔭 I’m currently working on [2024portfolio](https://github.com/rodzelte/2024portfolio)
 
