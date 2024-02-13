@@ -48,18 +48,19 @@
 
 <h3 align="center">Support:</h3>
 
-<p align="center">
+<div style="display: flex; justify-content: center;">
   <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=rodzelte&theme=dark" alt="GitHub Streak Stats">
-</p>
+</div>
 
-<p align="center">
+<div style="display: flex; justify-content: center;">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=rodzelte&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats">
-</p>
+</div>
 
-<p align="center">
+<div style="display: flex; justify-content: center;">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodzelte&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages">
-</p>
+</div>
 
-<p align="center">
+<div style="display: flex; justify-content: center;">
   <a href="https://www.buymeacoffee.com/zythonixtec"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"></a>
-</p>
+</div>
+
