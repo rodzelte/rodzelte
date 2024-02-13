@@ -48,19 +48,19 @@
 
 <h3 align="center">Support:</h3>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: inline-flex; justify-content: center;">
   <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=rodzelte&theme=dark" alt="GitHub Streak Stats">
 </div>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: inline-flex; justify-content: center;">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=rodzelte&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats">
 </div>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: inline-flex; justify-content: center;">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodzelte&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages">
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <a href="https://www.buymeacoffee.com/zythonixtec"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"></a>
-</div>
+<p><a href="https://www.buymeacoffee.com/zythonixtec"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zythonixtec" /></a></p>
+
+<br><br>
 
