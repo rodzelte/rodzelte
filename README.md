@@ -7,7 +7,6 @@
   <img src="https://profile-counter.glitch.me/rodzelte/count.svg" alt="Visitor Count">
 </p>
 
-<hr style="height:1px; border:none; color:#333; background-color:#333;>
 
 - 🔭 I’m currently working on [2024portfolio](https://github.com/rodzelte/2024portfolio)
 
@@ -23,7 +22,6 @@
 
 - ⚡ Fun fact: **I am a boring person**
 
-<hr style="height:1px; border:none; color:#333; background-color:#333; margin-top:20px; margin-bottom:20px;">
 
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
@@ -32,7 +30,6 @@
   <a href="https://fb.com/rodzel.te/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 </p>
 
-<hr style="height:1px; border:none; color:#333; background-color:#333; margin-top:20px; margin-bottom:20px;">
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -47,8 +44,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/>
 </p>
-
-<hr style="height:1px; border:none; color:#333; background-color:#333; margin-top:20px; margin-bottom:20px;">
 
 <h3 align="center">Support:</h3>
 
