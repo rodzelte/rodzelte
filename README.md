@@ -34,10 +34,10 @@
 
 <h3 align="center">Support:</h3>
 
-<p><img align="center" width="200" src="https://github-readme-streak-stats.herokuapp.com/?user=rodzelte&theme=dark" alt="rodzelte" /></p>
+<p><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=rodzelte&theme=dark" alt="rodzelte" /></p>
 
-<p>&nbsp;<img align="center" width="200" src="https://github-readme-stats.vercel.app/api?username=rodzelte&show_icons=true&theme=tokyonight&locale=en" alt="rodzelte" /></p>
+<p>&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=rodzelte&show_icons=true&theme=tokyonight&locale=en" alt="rodzelte" /></p>
 
-<p><img align="cetnter" width="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodzelte&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rodzelte" /></p>
+<p><img align="cetnter" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodzelte&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rodzelte" /></p>
 
 <p><a href="https://www.buymeacoffee.com/zythonixtec"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zythonixtec" /></a></p><br><br>
