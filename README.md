@@ -1,68 +1,62 @@
+<h1 align="center">Hi 👋, I'm Rodzel John Te (Chysev)</h1>
+<h3 align="center">A Computer Science, DevOps Engineer, and Entrepreneur</h3>
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 
-<h1 align="center">Hi there! 👋 I'm Rodzel John Te</h1>
-<h3 align="center">Passionate Frontend Developer | Based in the Philippines</h3>
+- 🔭 I’m currently at **[Univeristy of Mindanao](_blank)**
 
-- 🔭 I’m currently working on [2024portfolio](https://github.com/rodzelte/2024portfolio)
+- 🌱 I’m currently learning about **Machine Learning and Building Large Language Model**
 
-- 🌱 I’m currently learning **React.js**
+- 👯 I’m currently working on **[netflix-clone-app](https://github.com/rodzelte/netflix-clone)**
 
-- 👯 I’m looking to collaborate on [Mentorship-2024](https://github.com/rodzelte/Mentorship-2024)
+- 👨‍💻 All of my projects are available on **[Porfolio](/_blank)**
 
-- 🤝 I’m looking for help with **React JS**
+- 🥅 2024 Goals: **Focus more on myself and more exposure**
 
-- 💬 Ask me about **Java, Frameworks**
+- 📫 How to reach me: **zythonix.te@gmail.com**
 
-- 📫 Reach me at **zythonix.te@gmail.com**
+- 📄 Learn about my experiences: **[My Resume](https://github.com/Chysev/Portfolio/blob/main/public/_RESUME-LAYDA.pdf)**
 
-- ⚡ Fun fact: **Boring Person**
-
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <h3>Profile Visits</h3>
-  <img src="https://profile-counter.glitch.me/rodzelte/count.svg" alt="Visitor Count">
-</div>
-
----
-<h3 align="center">Connect with Me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/rodzel-te-188573285/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/user22432763" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-  <a href="https://fb.com/rodzel.te/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/rodzel.te/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rodzel" height="30" width="40" /></a>
+<a href="https://www.instagram.com/r.tefrvr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodzel_te" height="30" width="40" /></a>
+<a href="https://discord.gg/Av6QJDKsUt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ZG9qyadATP" height="30" width="40" /></a>
 </p>
 
-
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/>
+<h3 align="left">Languages:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,go,cpp,html,htmx,css,scss,php,java,py,zig" alt="John Layda">
 </p>
 
----
-
-<h3 align="center">Support:</h3>
-
-<div align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=rodzelte&theme=dark" alt="GitHub Streak Stats">
-</div>
-
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=rodzelte&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats">
-</div>
-
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodzelte&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages">
-</div>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/zythonixtec"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"></a>
+<h3 align="left">Frontend Frameworks:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=next,remix,react,vue,nuxt,angular,vite,laravel,astro,tauri" alt="John Albert Layda">
 </p>
+
+<h3 align="left">Backend Frameworks:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=appwrite,fastapi,supabase,firebase,flask,graphql,nestjs,express,django" alt="John">
+</p>
+
+<h3 align="left">A.I Frameworks:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=discordjs,pytorch,tensorflow" alt="Albert">
+</p>
+
+<h3 align="left">Database:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,dynamodb,postgres,mongo,sqlite,redis" alt="Layda">
+</p>
+
+<h3 align="left">Tools:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,prisma,sequelize,ipfs,nginx,cloudflare,workers,linux,babel,jest,postman,kafka,nodejs,npm,yarn,pnpm,jquery,cmake,bash,vscode,autocad,aws,figma,matlab,maven,terraform,threejs,webpack,materialui,grafana,gcp">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chysev&show_icons=true&locale=en&layout=compact" alt="rodzel" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chysev&show_icons=true&locale=en" alt="rodzel" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chysev&" alt="rodzel" /></p>
