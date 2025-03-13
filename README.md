@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently at **[Univeristy of Mindanao](_blank)**
 
-- 🌱 I’m currently learning about **Machine Learning and Building Large Language Model**
+- 🌱 I’m currently learning about **SSR Frontend and Backend**
 
 - 👯 I’m currently working on **[netflix-clone-app](https://github.com/rodzelte/netflix-clone)**
 
