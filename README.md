@@ -55,8 +55,4 @@
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,prisma,sequelize,ipfs,nginx,cloudflare,workers,linux,babel,jest,postman,kafka,nodejs,npm,yarn,pnpm,jquery,cmake,bash,vscode,autocad,aws,figma,matlab,maven,terraform,threejs,webpack,materialui,grafana,gcp">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodzelte&show_icons=true&locale=en&layout=compact" alt="rodzel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodzelte&show_icons=true&locale=en" alt="rodzel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodzelte&" alt="rodzel" /></p>
