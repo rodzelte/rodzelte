@@ -32,27 +32,27 @@
 
 <h3 align="left">Frontend Frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=next,remix,react,vue,nuxt,angular,vite,laravel,astro,tauri" alt="John Albert Layda">
+<img src="https://skillicons.dev/icons?i=next,react,vue,vite,laravel" alt="Rodzel">
 </p>
 
 <h3 align="left">Backend Frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=appwrite,fastapi,supabase,firebase,flask,graphql,nestjs,express,django" alt="John">
+<img src="https://skillicons.dev/icons?i=appwrite,fastapi,express" alt="Rodzel">
 </p>
 
 <h3 align="left">A.I Frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=discordjs,pytorch,tensorflow" alt="Albert">
+<img src="https://skillicons.dev/icons?i=discordjs" alt="Rodzel">
 </p>
 
 <h3 align="left">Database:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,dynamodb,postgres,mongo,sqlite,redis" alt="Layda">
+<img src="https://skillicons.dev/icons?i=mysql,dynamodb,postgres,mongo,sqlite,redis" alt="Rodzel">
 </p>
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,prisma,sequelize,ipfs,nginx,cloudflare,workers,linux,babel,jest,postman,kafka,nodejs,npm,yarn,pnpm,jquery,cmake,bash,vscode,autocad,aws,figma,matlab,maven,terraform,threejs,webpack,materialui,grafana,gcp">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,prisma,sequelize,nginx,workers,linux,babel,postman,nodejs,npm,yarn,pnpm,jquery,cmake,bash,vscode,figma,webpack,materialui,gcp">
 </p>
 
 
