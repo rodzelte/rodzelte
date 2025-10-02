@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&size=20&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=Information+Technology+Student+|+Jr.+DevOps+Engineer;Learning+SSR+Frontend+%26+Backend;Building+Projects+To+Improve+My+Skills)](https://git.io/typing-svg)
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
 </div>
 
 ---
@@ -17,8 +19,6 @@
 </p>
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
   
 | **🖥️ Backend** | **🌐 Web Frameworks** | **🎨 Frontend** | **🗄️ Databases** |
 | :---: | :---: | :---: | :---: |
