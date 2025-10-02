@@ -1,58 +1,56 @@
-<h1 align="center">Bio | Rodzel John Te</h1>
-<h3 align="center">A Information Technology, Jr. DevOps Engineer</h3>
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+# 👋🏼 Hi there! I'm Rodzel John Te (@rodzelte)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&size=20&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=Information+Technology+Student+|+Jr.+DevOps+Engineer;Learning+SSR+Frontend+%26+Backend;Building+Projects+To+Improve+My+Skills)](https://git.io/typing-svg)
 
-- 🔭 I’m currently at **[Univeristy of Mindanao](_blank)**
+</div>
 
-- 🌱 I’m currently learning about **SSR Frontend and Backend**
+---
 
-- 👯 I’m currently working on **[netflix-clone-app](https://github.com/rodzelte/netflix-clone)**
-
-- 👨‍💻 All of my projects are available on **[Porfolio](/_blank)**
-
-- 🥅 2024 Goals: **Focus more on myself and more exposure**
-
-- 📫 How to reach me: **zythonix.te@gmail.com**
-
-- 📄 Learn about my experiences: **[My Resume](https://github.com/Chysev/Portfolio/blob/main/public/_RESUME-LAYDA.pdf)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/rodzel.te/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rodzel" height="30" width="40" /></a>
-<a href="https://www.instagram.com/r.tefrvr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodzel_te" height="30" width="40" /></a>
-<a href="https://discord.gg/Av6QJDKsUt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ZG9qyadATP" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://skillicons.dev"> 
+    <img src="https://skillicons.dev/icons?i=js,ts,go,cpp,html,htmx,css,scss,php,java,py" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,sqlite,redis,docker,kubernetes,git,github,linux,vscode,figma" />
+  </a>
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,go,cpp,html,htmx,css,scss,php,java,py,zig" alt="John Layda">
-</p>
+<div align="center">
+  
+| **🖥️ Backend** | **🌐 Web Frameworks** | **🎨 Frontend** | **🗄️ Databases** |
+| :---: | :---: | :---: | :---: |
+| Node.js, Go, PHP, Python | Express, FastAPI, Laravel | React, Next.js, Vue, Vite, HTMX | MySQL, PostgreSQL, MongoDB, SQLite, Redis |
+  
+</div>
 
-<h3 align="left">Frontend Frameworks:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=next,react,vue,vite,laravel" alt="Rodzel">
-</p>
+---
 
-<h3 align="left">Backend Frameworks:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=appwrite,fastapi,express" alt="Rodzel">
-</p>
+<div align="center">
+  <a href="https://github.com/rodzelte?tab=repositories">
+    <img 
+      style="height: 200px; width:355px;"
+      height=200
+      align="center"
+      src="https://github-readme-stats-eight-tau-g9m35dlwc0.vercel.app/api?username=rodzelte&theme=apprentice&hide_rank=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/rodzelte?tab=repositories">
+    <img
+      style="height: 200px; width:355px;"
+      height=200
+      align="center"
+      src="https://github-readme-stats-eight-tau-g9m35dlwc0.vercel.app/api/top-langs/?username=rodzelte&size_weight=0.1&count_weight=1&theme=apprentice&layout=compact&langs_count=6&card_width=270&hide=Jupyter%20Notebook" />
+  </a>
+  <div style="height:10px;"></div>
+</div>
 
-<h3 align="left">A.I Frameworks:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=discordjs" alt="Rodzel">
-</p>
+<br>
 
-<h3 align="left">Database:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,dynamodb,postgres,mongo,sqlite,redis" alt="Rodzel">
-</p>
+<div align="center">
 
-<h3 align="left">Tools:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,prisma,sequelize,nginx,workers,linux,babel,postman,nodejs,npm,yarn,pnpm,jquery,cmake,bash,vscode,figma,webpack,materialui,gcp">
-</p>
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/rodzel.te)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/r.tefrvr)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Av6QJDKsUt)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zythonix.te@gmail.com)
 
-
+</div>
