@@ -20,7 +20,7 @@
   
 | **🖥️ Backend** | **🌐 Web Frameworks** | **🎨 Frontend** | **🗄️ Databases** |
 | :---: | :---: | :---: | :---: |
-| Node.js, Go, PHP, Python | Express, FastAPI, Laravel | React, Next.js, Vue, Vite, HTMX | MySQL, PostgreSQL, MongoDB, SQLite, Redis |
+| Node.js,  PHP | Express, FastAPI, Laravel | React, Next.js, Vue, Vite, HTMX | MySQL, MongoDB, SQLite |
   
 </div>
 
